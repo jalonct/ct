@@ -6,3 +6,5 @@ this is a repository about sincerelylink project
 显示push  to origin
 
 在分支中增加一条
+
+再分之中再增加一条
